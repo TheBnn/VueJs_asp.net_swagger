@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b6d7386d-6ff4-433c-93c0-078cd6ad801f": {
+      "ProjectGuid": "b6d7386d-6ff4-433c-93c0-078cd6ad801f",
+      "DisplayName": "backend",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "00251d8f-2441-476d-b0e9-9913e9207f25": {
+      "ProjectGuid": "00251d8f-2441-476d-b0e9-9913e9207f25",
+      "DisplayName": "frontend",
+      "ColorIndex": 1
+    },
+    "919fd655-f067-4ba2-b932-d926e85dd6b4": {
+      "ProjectGuid": "919fd655-f067-4ba2-b932-d926e85dd6b4",
+      "DisplayName": "Документы скриптов",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
